@@ -20,12 +20,6 @@ Senior Full Stack Engineer with 9+ years of experience building scalable web app
 
 ---
 
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nashirk5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5657358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nashirk5@gmail.com)
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -55,6 +49,11 @@ Senior Full Stack Engineer with 9+ years of experience building scalable web app
 
 ---
 
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nashirk5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5657358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nashirk5@gmail.com)
+
+<!--
 ### 🔭 I’m currently working on
 
 Building scalable full-stack applications using Node.js, Angular, and React, focusing on microservices architecture, performance optimization, and reliable production systems.
@@ -85,18 +84,8 @@ Angular, React, Node.js, REST/GraphQL APIs, microservices architecture, and buil
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nashirk5&layout=compact&theme=tokyonight&hide=php)
 
-<!--
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nashirk5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nashirk5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nashirk5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nashirk5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nashirk5&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
--->
+![](https://github-contributor-stats.vercel.app/api?username=nashirk5&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
