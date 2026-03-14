@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Nashiruddin
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Angular+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications" />
-</p>
+</p> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=nashirk5&color=blue) -->
 
